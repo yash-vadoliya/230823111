@@ -2,6 +2,7 @@
 {
     padding: 10px;
     margin: 10px;
+    color: #ffffff;
 }
 
 h1
@@ -11,13 +12,22 @@ h1
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     padding: 10px;
     color: #ffffff;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
 }
 
+div
+{
+    padding: 0px;
+    margin:  0px;
+}
 .contact
 {
     width : 30%;
     height: 750px;
     background-color: blue;
+    text-align: justify;
     
 }
 
@@ -32,4 +42,5 @@ h1
 .side
 {
     display: flex;
+    text-align: center;
 }
