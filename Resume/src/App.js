@@ -1,6 +1,7 @@
 // import logo from './logo.svg';
 import './App.css';
 import Resume from './Resume.js';
+// import Res from './Res.js';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
     //   </header>
     // </div>
     <Resume />
+    // <Res />
   );
 }
 
